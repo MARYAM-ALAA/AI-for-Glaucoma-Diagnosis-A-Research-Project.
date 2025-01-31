@@ -1,7 +1,7 @@
 # AI-Based Glaucoma Diagnosis (Theoretical Model)
 
 ## 📌 Project Overview
-This repository presents a **theoretical framework** for an **AI-driven glaucoma diagnosis model**. Glaucoma is a leading cause of irreversible blindness, often detected too late due to the limitations of traditional diagnostic methods. Our proposed model aims to leverage **deep learning and machine learning techniques** to assist in early detection.
+This repository presents a **theoretical framework** for an **AI-driven glaucoma diagnosis model** written by **Latex programming Language**. Glaucoma is a leading cause of irreversible blindness, often detected too late due to the limitations of traditional diagnostic methods. Our proposed model aims to leverage **deep learning and machine learning techniques** to assist in early detection.
 
 **⚠️ Note:** This project is currently a **conceptual plan** and has not been implemented yet. Future updates will focus on transitioning from theory to practice.
 
